@@ -20,4 +20,4 @@ The goal is to capture the flag at `/root`.
 Harden the machine with a bash script and try to attack again to proof if the hardening works.
 
 
-My solution is available in walkthrough.md / walkthrough.pdf and vulnix_fix.sh
+**-> My solution is available in walkthrough.md / walkthrough.pdf and vulnix_fix.sh**
